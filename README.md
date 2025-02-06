@@ -21,8 +21,6 @@ The following are required for the basic Dragonstaff. I've included the tools in
 - PVC Glue
 - PVC Primer
 
-![IMG_4107](https://github.com/user-attachments/assets/0cea080f-9ea6-426e-a4e0-63a6bc63c92d)
-
 ## Optional
 
 The following are optional. I wanted to be able to screw the heads on/off, but it's not a requirement.
@@ -63,13 +61,10 @@ PVC and bamboo cores are heavy, and I've boffed myself on the head on more than 
 ## The Heads
 
 1. Mark out where you're going to cut the 8 spokes by marking every 18cm on the PVC pipe.
-  ![IMG_4108](https://github.com/user-attachments/assets/d0945e72-175f-4005-8987-5fbb474717c6)
 2. Cut the spokes from the PVC
-  ![IMG_4110](https://github.com/user-attachments/assets/8879bb05-fb39-4def-8127-616bf36b30b9)
 3. Mark out the weights on the broom handle 
 4. Cut the spoke weights from the broom handle (15cm ea)
 5. Dry-fit the spokes into the 5-Way connector
-  ![IMG_4114](https://github.com/user-attachments/assets/ae8f2a8f-c65b-43c4-b98a-cf57439ade1e)
 6. Secure the weights in the heads with a bit of duct tape
 7. Dry-fit the caps on
 8. (Optional) Dry-fit the male connector if you're doing detachable heads
@@ -81,12 +76,8 @@ PVC and bamboo cores are heavy, and I've boffed myself on the head on more than 
 3. Mark the middle with a sharpie
 4. Cut the broom handle to the same length
 5. Put the broom handle in the pipe and secure it with a bit of tape
-  ![IMG_4132](https://github.com/user-attachments/assets/dd67525f-ae27-4e9e-9260-a75b35419ac9)
 6. Working your way out from the middle of the PVC pipe, apply your chosen grip. We work from the middle for two reasons. First, it provides a good visual reference to the center of balance when you're learning. Second, if choose to shorten the overall length, you can just take an equal amount of pipe off each end and preserve your grip.
-  ![IMG_4118](https://github.com/user-attachments/assets/8aad77d0-7f8f-4e79-a44a-fbc402815e0a)
 7. Dry-fit the heads. (Optional) Use the female connectors if you're doing detachable heads
-  ![IMG_4115](https://github.com/user-attachments/assets/274bd4c5-4152-4705-b859-38ef41a9fbe7)
-  ![IMG_4116](https://github.com/user-attachments/assets/134d60bb-7092-4ac5-b4f4-cdde27b01230)
 
 ## The First Test
 
@@ -112,3 +103,16 @@ Let's glue this all together! Just remember, you can choose to leave some joints
 Congratulations, you have your own Dragonstaff! Pat yourself on the back, well done you! Isn't making stuff just the best!!! Enjoy your flow, play around, and have a wicked day!
 
 I'd love to see what you've built, hit me up on [insta](https://www.instagram.com/bearfootdev). Safe travels on your journey!
+
+# The Photos
+
+Here's a bunch of progress shots I took while I was constructing this. Might help give clarity on some of the instructions I wrote!
+
+![IMG_4107](https://github.com/user-attachments/assets/0cea080f-9ea6-426e-a4e0-63a6bc63c92d)
+![IMG_4108](https://github.com/user-attachments/assets/d0945e72-175f-4005-8987-5fbb474717c6)
+![IMG_4110](https://github.com/user-attachments/assets/8879bb05-fb39-4def-8127-616bf36b30b9)
+![IMG_4114](https://github.com/user-attachments/assets/ae8f2a8f-c65b-43c4-b98a-cf57439ade1e)
+![IMG_4132](https://github.com/user-attachments/assets/dd67525f-ae27-4e9e-9260-a75b35419ac9)
+![IMG_4118](https://github.com/user-attachments/assets/8aad77d0-7f8f-4e79-a44a-fbc402815e0a)
+![IMG_4115](https://github.com/user-attachments/assets/274bd4c5-4152-4705-b859-38ef41a9fbe7)
+![IMG_4116](https://github.com/user-attachments/assets/134d60bb-7092-4ac5-b4f4-cdde27b01230)
