@@ -4,22 +4,29 @@ This is how I built a practice Dragonstaff, all the tools, materials and costs (
 
 # The Materials
 
+**IMPORANT**: I'm 95% sure I've linked to the right things, but please test fitting stuff together in the store. Does the connector go on the end of the pipe? Does that broom handle fit in there? Do the connectors screw together? Try all the things, because nothing is more annoying that having to go back and buy the right thing because you didn't test.
+
+**IMPORTANT**: The staff at Bunnings are legends, don't hesitate to ask them questions about whether you've got the right glue for the pipes, etc.
+
 ## Required
 
 The following are required for the basic Dragonstaff. I've included the tools in here, but you can improvise (e.g. using the saw instead of the pipe cutter on the PVC). I've included some alternatives/substitutions below.
 
-- 3m of 20mm PVC Pipe
-- 2 x 5-Way Adaptor
-- 8 x Caps
-- Grip Tape
+- [3m of 20mm PVC Pipe](https://www.bunnings.com.au/holman-20mm-x-3m-class-12-pvc-pressure-pipes_p4750039) = $9.42
+- [2 x 5-Way Adaptor](https://www.bunnings.com.au/holman-20mm-ezyfit-5-way-pvc-joint_p0139315) = $14.62 ($7.31 ea)
+- [8 x Caps](https://www.bunnings.com.au/holman-20mm-press-pvc-cap-end_p3140463) = $8 ($1 ea)
+- [2 x Broom Handle](https://www.bunnings.com.au/oates-1-35m-x-22mm-duratuff-bamboo-broom-handle_p4480204) = $14.78 ($7.39)
+- [Grip Tape](https://www.rebelsport.com.au/p/head-prime-tour-tennis-racquet-overgrip-63600701.html?cgid=REB012004#start=27) = $14.99 **see alternatives*
 - Duct Tape
-- Broom Handle
 - Tape Measure
 - Sharpie
-- A Saw
-- Pipe Cutter
-- PVC Glue
-- PVC Primer
+- A Saw (For the broom handle)
+- [Pipe Cutter](https://www.bunnings.com.au/craftright-32mm-tube-and-pipe-cutter_p4902185) = $9.98 *Could also use saw, results may vary*
+- [PVC Cement](https://www.bunnings.com.au/protek-125ml-type-n-blue-cement-solvent_p4750114) = $6.75
+- [PVC Primer](https://www.bunnings.com.au/protek-125ml-red-priming-fluid_p4750121) = $5.07
+- Sandpaper (As long as it's not fine grit, it's all good)
+
+**Total** = $83.61
 
 ## Optional
 
@@ -29,8 +36,11 @@ The following are optional. I wanted to be able to screw the heads on/off, but i
 
 I have found it to be fantastic for portability, and it means you can also make different heads. I had an idea to make an LED head that could be attached here, food for thought.
 
-- 2 x Male Connectors
-- 2 x Female Connectors
+- [2 x Male Connectors](https://www.bunnings.com.au/holman-20mm-x-3-4-press-pvc-bsp-male-thread-adaptor_p3142740) = $5.10 ($2.55 ea)
+- [2 x Female Connectors](https://www.bunnings.com.au/holman-20mm-x-3-4-pvc-faucet-socket_p3142067) = $4.46 ($2.23 ea)
+
+**Sub-Total** = $9.56
+**Total** = $93.17
 
 ## Alternatives/Substitutions
 
