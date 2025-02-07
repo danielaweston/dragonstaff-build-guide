@@ -16,7 +16,7 @@ The following are required for the basic Dragonstaff. I've included the tools in
 - [2 x 5-Way Adaptor](https://www.bunnings.com.au/holman-20mm-ezyfit-5-way-pvc-joint_p0139315) = $14.62 ($7.31 ea)
 - [8 x Caps](https://www.bunnings.com.au/holman-20mm-press-pvc-cap-end_p3140463) = $8 ($1 ea)
 - [2 x Broom Handle](https://www.bunnings.com.au/oates-1-35m-x-22mm-duratuff-bamboo-broom-handle_p4480204) = $14.78 ($7.39)
-- [Grip Tape](https://www.rebelsport.com.au/p/head-prime-tour-tennis-racquet-overgrip-63600701.html?cgid=REB012004#start=27) = $14.99 **see alternatives*
+- [Grip Tape](https://www.rebelsport.com.au/p/head-prime-tour-tennis-racquet-overgrip-63600701.html?cgid=REB012004#start=27) = $14.99 *see alternatives*
 - Duct Tape
 - Tape Measure
 - Sharpie
