@@ -27,6 +27,8 @@ The following are required for the basic Dragonstaff. I've included the tools in
 
 The following are optional. I wanted to be able to screw the heads on/off, but it's not a requirement.
 
+I have found it to be fantastic for portability, and it means you can also make different heads. I had an idea to make an LED head that could be attached here, food for thought.
+
 - 2 x Male Connectors
 - 2 x Female Connectors
 
@@ -108,11 +110,13 @@ I'd love to see what you've built, hit me up on [insta](https://www.instagram.co
 
 Here's a bunch of progress shots I took while I was constructing this. Might help give clarity on some of the instructions I wrote!
 
-![IMG_4107](https://github.com/user-attachments/assets/0cea080f-9ea6-426e-a4e0-63a6bc63c92d)
-![IMG_4108](https://github.com/user-attachments/assets/d0945e72-175f-4005-8987-5fbb474717c6)
-![IMG_4110](https://github.com/user-attachments/assets/8879bb05-fb39-4def-8127-616bf36b30b9)
-![IMG_4114](https://github.com/user-attachments/assets/ae8f2a8f-c65b-43c4-b98a-cf57439ade1e)
-![IMG_4132](https://github.com/user-attachments/assets/dd67525f-ae27-4e9e-9260-a75b35419ac9)
-![IMG_4118](https://github.com/user-attachments/assets/8aad77d0-7f8f-4e79-a44a-fbc402815e0a)
-![IMG_4115](https://github.com/user-attachments/assets/274bd4c5-4152-4705-b859-38ef41a9fbe7)
-![IMG_4116](https://github.com/user-attachments/assets/134d60bb-7092-4ac5-b4f4-cdde27b01230)
+<p>
+    <img width="160" height="240" src="https://github.com/user-attachments/assets/0cea080f-9ea6-426e-a4e0-63a6bc63c92d" >
+    <img width="160" height="240" src="https://github.com/user-attachments/assets/d0945e72-175f-4005-8987-5fbb474717c6" >
+    <img width="160" height="240" src="https://github.com/user-attachments/assets/8879bb05-fb39-4def-8127-616bf36b30b9" >
+    <img width="160" height="240" src="https://github.com/user-attachments/assets/ae8f2a8f-c65b-43c4-b98a-cf57439ade1e" >
+    <img width="160" height="240" src="https://github.com/user-attachments/assets/dd67525f-ae27-4e9e-9260-a75b35419ac9" >
+    <img width="160" height="240" src="https://github.com/user-attachments/assets/8aad77d0-7f8f-4e79-a44a-fbc402815e0a" >
+    <img width="160" height="240" src="https://github.com/user-attachments/assets/274bd4c5-4152-4705-b859-38ef41a9fbe7" >
+    <img width="160" height="240" src="https://github.com/user-attachments/assets/134d60bb-7092-4ac5-b4f4-cdde27b01230" >
+</p>
