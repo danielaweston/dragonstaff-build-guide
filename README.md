@@ -83,7 +83,7 @@ PVC and bamboo cores are heavy, and I've boffed myself on the head on more than 
 
 ## The Core
 
-1. Figure out your desired staff height. I would suggest going longer if you're unsure, as you can always remove more material, you can't add it back on if you go too short.
+1. Figure out your desired staff height using this [guide](https://www.threeworlds.com.au/pages/dragon-staff-length). I would suggest going longer if you're unsure, as you can always remove more material, you can't add it back on if you go too short.
 2. Cut the PVC to your desired length minus 20cm. If you want your staff to be 145cm total length at the end, cut the core to 125cm. This is to account for the length the heads will add.
 3. Mark the middle with a sharpie
 4. Cut the broom handle to the same length
