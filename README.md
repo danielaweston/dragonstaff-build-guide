@@ -23,9 +23,9 @@ The following are required for the basic Dragonstaff. I've included the tools in
 
 ## Optional
 
-The following are optional. I wanted to be able to screw the heads on/off, but it's not a requirement.
+<img align="right" width="100" height="100" src="[https://picsum.photos/100/100](https://github.com/user-attachments/assets/e2a05749-6946-46c5-9acf-2c8276764318)">
 
-![output2](https://github.com/user-attachments/assets/e2a05749-6946-46c5-9acf-2c8276764318)
+The following are optional. I wanted to be able to screw the heads on/off, but it's not a requirement.
 
 - 2 x Male Connectors
 - 2 x Female Connectors
