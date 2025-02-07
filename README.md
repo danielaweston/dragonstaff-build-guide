@@ -16,12 +16,12 @@ The following are required for the basic Dragonstaff. I've included the tools in
 - [2 x 5-Way Adaptor](https://www.bunnings.com.au/holman-20mm-ezyfit-5-way-pvc-joint_p0139315) = $14.62 ($7.31 ea)
 - [8 x Caps](https://www.bunnings.com.au/holman-20mm-press-pvc-cap-end_p3140463) = $8 ($1 ea)
 - [2 x Broom Handle](https://www.bunnings.com.au/oates-1-35m-x-22mm-duratuff-bamboo-broom-handle_p4480204) = $14.78 ($7.39)
-- [Grip Tape](https://www.rebelsport.com.au/p/head-prime-tour-tennis-racquet-overgrip-63600701.html?cgid=REB012004#start=27) = $14.99 *see alternatives*
+- [Grip Tape](https://www.rebelsport.com.au/p/head-prime-tour-tennis-racquet-overgrip-63600701.html?cgid=REB012004#start=27) = $14.99 (*see alternatives*)
 - Duct Tape
 - Tape Measure
 - Sharpie
-- A Saw (For the broom handle)
-- [Pipe Cutter](https://www.bunnings.com.au/craftright-32mm-tube-and-pipe-cutter_p4902185) = $9.98 *Could also use saw, results may vary*
+- A Saw (*For the broom handle*)
+- [Pipe Cutter](https://www.bunnings.com.au/craftright-32mm-tube-and-pipe-cutter_p4902185) = $9.98 (*Could also use saw, results may vary*)
 - [PVC Cement](https://www.bunnings.com.au/protek-125ml-type-n-blue-cement-solvent_p4750114) = $6.75
 - [PVC Primer](https://www.bunnings.com.au/protek-125ml-red-priming-fluid_p4750121) = $5.07
 - Sandpaper (As long as it's not fine grit, it's all good)
@@ -40,6 +40,7 @@ I have found it to be fantastic for portability, and it means you can also make 
 - [2 x Female Connectors](https://www.bunnings.com.au/holman-20mm-x-3-4-pvc-faucet-socket_p3142067) = $4.46 ($2.23 ea)
 
 **Sub-Total** = $9.56
+
 **Total** = $93.17
 
 ## Alternatives/Substitutions
