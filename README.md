@@ -23,7 +23,7 @@ The following are required for the basic Dragonstaff. I've included the tools in
 
 ## Optional
 
-<img align="right" width="100" height="100" src="https://github.com/user-attachments/assets/e2a05749-6946-46c5-9acf-2c8276764318">
+<img align="right" width="160" height="240" src="https://github.com/user-attachments/assets/e2a05749-6946-46c5-9acf-2c8276764318">
 
 The following are optional. I wanted to be able to screw the heads on/off, but it's not a requirement.
 
